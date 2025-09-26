@@ -49,3 +49,7 @@ Gelecekte şu geliştirmeler yapılabilir:
 - Modelin bulut ortamına (AWS, GCP, Azure) deploy edilmesi  
 
 ---
+
+Linkler
+
+https://www.kaggle.com/code/vedatkoylahisar/sign-language
